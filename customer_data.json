@@ -1,0 +1,17 @@
+[
+  {
+    "ID": 1,
+    "Name": "Customer 4",
+    "Balance": 100.0
+  },
+  {
+    "ID": 2,
+    "Name": "Customer 5",
+    "Balance": 50.0
+  },
+  {
+    "ID": 3,
+    "Name": "Customer 6",
+    "Balance": 100.0
+  }
+]
